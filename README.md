@@ -2,7 +2,7 @@
 ### Olá, eu sou o  Kayque Gonçalves <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-### Fico feliz em ve-lo aqui! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kayqueG.kayqueG)
+### Fico feliz pela visita! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kayqueG.kayqueG)
 
 
 Sou um bacharelando em ciência e tecnologia e em ciência da computação pela UFABC e futuro desenvolvedor java full stack jr pela Generation Brasil.
