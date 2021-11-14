@@ -10,7 +10,7 @@ Sou um bacharelando em ciência e tecnologia e em ciência da computação pela 
 Atuando como programador, um dos meus objetivos é utilizar meu conhecimento para contribuir no desenvolvimento de projetos que podem mudar a vida das pessoas para melhor.
 
   
-
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif" width="408" height="318" />
 
    
 - 🚀 Atualmente estou estudando algoritmos e estrutura de dados, programação orientada a objetos e SQL
