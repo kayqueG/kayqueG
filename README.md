@@ -13,7 +13,7 @@ Atuando como programador, um dos meus objetivos é utilizar meu conhecimento par
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif" width="408" height="318" />
 
    
-- 🚀 Atualmente estou estudando estrutura de dados, SpringBoot,MySQL e Docker.
+- 🚀 Atualmente estou estudando React.
 - 💬 Fique a vontade por me perguntar qualquer coisa, ficarei feliz em poder ajudar;
 - 📫 Contato: kayquegps1@gmail.com
 
