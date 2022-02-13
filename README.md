@@ -5,7 +5,7 @@
 ### Fico feliz pela sua visita! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kayqueG.kayqueG)
 
 
-Sou um bacharelando em ciência e tecnologia e em ciência da computação pela UFABC e futuro desenvolvedor java full stack jr pela Generation Brasil.
+Sou um bacharelando em ciência e tecnologia e em ciência da computação pela UFABC e desenvolvedor java full stack jr pela Generation Brasil.
 
 Atuando como programador, um dos meus objetivos é utilizar meu conhecimento para contribuir no desenvolvimento de projetos que podem mudar a vida das pessoas para melhor.
 
