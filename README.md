@@ -2,7 +2,7 @@
 ### Olá, eu sou o  Kayque Gonçalves!
 
 
-### Fico feliz pela sua visita! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kayqueG.kayqueG)
+### Fico feliz pela sua visita!
 
 
 Sou um bacharelando em ciência e tecnologia e em ciência da computação pela UFABC e desenvolvedor java jr pela Generation Brasil.
